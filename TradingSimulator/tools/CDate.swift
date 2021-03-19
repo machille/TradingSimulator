@@ -175,7 +175,6 @@ class CDate {
         let calendar = Calendar.current
         return calendar.component(.year, from: date)
     }
-    
 }
 
 extension Date {
