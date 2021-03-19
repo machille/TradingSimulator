@@ -13,7 +13,7 @@ Trading simulator embeds a database of 155 stocks with a daily quotation history
 
 ### Option 1: Binary
 
-Download the latest binary from the Releases page. It's the easiest way to get started with Trading Simulator.
+Download the latest binary from the [Releases page](https://github.com/machille/TradingSimulator/releases/download/v1.0/TradingSimulator.dmg). It's the easiest way to get started with Trading Simulator.
 
 ### Option 2: From source
 
